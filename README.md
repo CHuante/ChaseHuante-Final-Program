@@ -17,4 +17,5 @@ In the terminal/command prompt, cd into the examcalc file then enter:
 npm run start
 
 after this, the app should popup in a localhost 3000 website.
+
 🎄 MERRY CHRISTMAS!
